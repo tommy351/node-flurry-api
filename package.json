@@ -1,0 +1,31 @@
+{
+  "name": "flurry-api",
+  "version": "0.0.1",
+  "description": "Flurry APi",
+  "main": "lib/flurry",
+  "scripts": {
+    "test": "make test"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tommy351/node-flurry-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tommy351/node-flurry-api/issues"
+  },
+  "keywords": [
+    "analytics"
+  ],
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  },
+  "dependencies": {
+    "request": "^2.37.0"
+  }
+}
