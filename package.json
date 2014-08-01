@@ -1,7 +1,7 @@
 {
   "name": "flurry-api",
-  "version": "0.0.2",
-  "description": "Flurry APi",
+  "version": "0.0.3",
+  "description": "Flurry API for Node.js",
   "main": "lib/flurry",
   "scripts": {
     "test": "make test"
